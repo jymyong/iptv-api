@@ -1,16 +1,14 @@
 #EXTM3U x-tvg-url="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/e.xml"
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="📺马老爷子常看频道",CCTV-1
-http://xsbc.3sbio.com:35455/gaoma/cctv1.m3u8$订阅源-3840x2160
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="📺马老爷子常看频道",CCTV-1
 http://huashetou.fun:35455/gaoma/cctv1.m3u8$订阅源-3840x2160
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="📺马老爷子常看频道",CCTV-1
-http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33$订阅源-1920x1080
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="📺马老爷子常看频道",CCTV-1
 https://cdn5.163189.xyz/live/cctv1/stream.m3u8$订阅源-1920x1080
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="📺马老爷子常看频道",CCTV-1
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33$订阅源-1920x1080
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="📺马老爷子常看频道",CCTV-1
 http://58.243.224.244:9901/tsfile/live/1031_1.m3u8?key=txiptv&playlive=0&authid=0$订阅源-1920x1080
-#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV2.png" group-title="📺马老爷子常看频道",CCTV-2
-http://xsbc.3sbio.com:35455/gaoma/cctv2.m3u8$订阅源-3840x2160
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="📺马老爷子常看频道",CCTV-1
+http://112.46.85.60:8009/hls/501/index.m3u8$订阅源-1920x1080
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV2.png" group-title="📺马老爷子常看频道",CCTV-2
 http://huashetou.fun:35455/gaoma/cctv2.m3u8$订阅源-3840x2160
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV2.png" group-title="📺马老爷子常看频道",CCTV-2
@@ -18,19 +16,19 @@ http://php.jdshipin.com/TVOD/hljyd.php?id=3221225588$订阅源-1920x1080
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV2.png" group-title="📺马老爷子常看频道",CCTV-2
 http://58.243.224.244:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0$订阅源-1920x1080
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV2.png" group-title="📺马老爷子常看频道",CCTV-2
-http://113.140.12.230:8888/newlive/live/hls/3/live.m3u8$订阅源-1920x1080
-#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV3.png" group-title="📺马老爷子常看频道",CCTV-3
-http://xsbc.3sbio.com:35455/gaoma/cctv3.m3u8$订阅源-3840x2160
+http://112.46.85.60:8009/hls/502/index.m3u8$订阅源-1920x1080
+#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV2.png" group-title="📺马老爷子常看频道",CCTV-2
+http://110.53.52.63:8888/newlive/live/hls/3/live.m3u8$订阅源-1920x1080
 #EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV3.png" group-title="📺马老爷子常看频道",CCTV-3
 http://huashetou.fun:35455/gaoma/cctv3.m3u8$订阅源-3840x2160
 #EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV3.png" group-title="📺马老爷子常看频道",CCTV-3
 http://php.jdshipin.com/TVOD/hljyd.php?id=3221226021$订阅源-1920x1080
 #EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV3.png" group-title="📺马老爷子常看频道",CCTV-3
-http://113.140.12.230:8888/newlive/live/hls/4/live.m3u8$订阅源-1920x1080
+http://112.46.85.60:8009/hls/3/index.m3u8$订阅源-1920x1080
 #EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV3.png" group-title="📺马老爷子常看频道",CCTV-3
-https://api.olelive.com/dis/live/CCTV3HD/hls.m3u8$订阅源-1920x1080
-#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV4.png" group-title="📺马老爷子常看频道",CCTV-4
-http://xsbc.3sbio.com:35455/gaoma/cctv4k.m3u8$订阅源-3840x2160
+http://110.53.52.63:8888/newlive/live/hls/4/live.m3u8$订阅源-1920x1080
+#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV3.png" group-title="📺马老爷子常看频道",CCTV-3
+http://115.159.35.169:35455/gaoma/cctv3.m3u8$订阅源-1920x1080
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV4.png" group-title="📺马老爷子常看频道",CCTV-4
 http://huashetou.fun:35455/gaoma/cctv4k.m3u8$订阅源-3840x2160
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV4.png" group-title="📺马老爷子常看频道",CCTV-4
@@ -38,59 +36,59 @@ http://php.jdshipin.com:8880/bst2.php?id=cctv4k/15000000$订阅源-1920x1080
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV4.png" group-title="📺马老爷子常看频道",CCTV-4
 http://58.243.224.244:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=0&authid=0$订阅源-1920x1080
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV4.png" group-title="📺马老爷子常看频道",CCTV-4
-http://113.140.12.230:8888/newlive/live/hls/5/live.m3u8$订阅源-1920x1080
-#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5.png" group-title="📺马老爷子常看频道",CCTV-5
-http://xsbc.3sbio.com:35455/gaoma/cctv5.m3u8$订阅源-3840x2160
+http://112.46.85.60:8009/hls/4/index.m3u8$订阅源-1920x1080
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV4.png" group-title="📺马老爷子常看频道",CCTV-4
+http://110.53.52.63:8888/newlive/live/hls/5/live.m3u8$订阅源-1920x1080
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5.png" group-title="📺马老爷子常看频道",CCTV-5
 http://huashetou.fun:35455/gaoma/cctv5.m3u8$订阅源-3840x2160
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5.png" group-title="📺马老爷子常看频道",CCTV-5
 http://php.jdshipin.com/TVOD/hljyd.php?id=3221226019$订阅源-1920x1080
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5.png" group-title="📺马老爷子常看频道",CCTV-5
-http://113.140.12.230:8888/newlive/live/hls/6/live.m3u8$订阅源-1920x1080
+http://112.46.85.60:8009/hls/503/index.m3u8$订阅源-1920x1080
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5.png" group-title="📺马老爷子常看频道",CCTV-5
-https://api.olelive.com/dis/live/CCTV5HD/hls.m3u8$订阅源-1920x1080
-#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5+.png" group-title="📺马老爷子常看频道",CCTV-5+
-http://xsbc.3sbio.com:35455/gaoma/cctv5p.m3u8$订阅源-3840x2160
+http://110.53.52.63:8888/newlive/live/hls/6/live.m3u8$订阅源-1920x1080
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5.png" group-title="📺马老爷子常看频道",CCTV-5
+http://115.159.35.169:35455/gaoma/cctv5.m3u8$订阅源-1920x1080
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5+.png" group-title="📺马老爷子常看频道",CCTV-5+
 http://huashetou.fun:35455/gaoma/cctv5p.m3u8$订阅源-3840x2160
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5+.png" group-title="📺马老爷子常看频道",CCTV-5+
 http://php.jdshipin.com:8880/cqyx.php?id=CCTV5SPORTHD$订阅源-1920x1080
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5+.png" group-title="📺马老爷子常看频道",CCTV-5+
-https://api.olelive.com/dis/live/CCTV5PHD/hls.m3u8$订阅源-1920x1080
+http://110.53.52.63:8888/newlive/live/hls/7/live.m3u8$订阅源-1920x1080
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5+.png" group-title="📺马老爷子常看频道",CCTV-5+
-http://ku9.3n.cc/smt.php?id=cctv5plus$订阅源-1920x1080
-#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV6.png" group-title="📺马老爷子常看频道",CCTV-6
-http://xsbc.3sbio.com:35455/gaoma/cctv6.m3u8$订阅源-3840x2160
+http://115.159.35.169:35455/gaoma/cctv5p.m3u8$订阅源-1920x1080
+#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5+.png" group-title="📺马老爷子常看频道",CCTV-5+
+http://nas.suntao.online:35455/gaoma/cctv5p.m3u8$订阅源-1920x1080
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV6.png" group-title="📺马老爷子常看频道",CCTV-6
 http://php.jdshipin.com/TVOD/hljyd.php?id=3221226010$订阅源-1920x1080
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV6.png" group-title="📺马老爷子常看频道",CCTV-6
-http://113.140.12.230:8888/newlive/live/hls/7/live.m3u8$订阅源-1920x1080
+http://110.53.52.63:8888/newlive/live/hls/8/live.m3u8$订阅源-1920x1080
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV6.png" group-title="📺马老爷子常看频道",CCTV-6
-https://api.olelive.com/dis/live/CCTV6HD/hls.m3u8$订阅源-1920x1080
+http://115.159.35.169:35455/gaoma/cctv6.m3u8$订阅源-1920x1080
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV6.png" group-title="📺马老爷子常看频道",CCTV-6
-http://ku9.3n.cc/smt.php?id=cctv6$订阅源-1920x1080
-#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV7.png" group-title="📺马老爷子常看频道",CCTV-7
-http://xsbc.3sbio.com:35455/gaoma/cctv7.m3u8$订阅源-3840x2160
+http://www.freetv.top/migu/624878396.m3u8?migutoken=3adcad950884d4ecc6c6967edee9c162189a1e09480eb5c29b369864aeedaed43c3f951d7eb6c32d86baac49792aacb3264b8f074e746477064fd7b1f172f00a9d84373825617d4366e8c54f0c$订阅源-1920x1080
+#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV6.png" group-title="📺马老爷子常看频道",CCTV-6
+http://hmjnas.drdjhmj.top:35455/gaoma/cctv6.m3u8$订阅源-1920x1080
 #EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV7.png" group-title="📺马老爷子常看频道",CCTV-7
 http://huashetou.fun:35455/gaoma/cctv7.m3u8$订阅源-3840x2160
 #EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV7.png" group-title="📺马老爷子常看频道",CCTV-7
 http://php.jdshipin.com/TVOD/hljyd.php?id=3221225733$订阅源-1920x1080
 #EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV7.png" group-title="📺马老爷子常看频道",CCTV-7
-https://live.junhao.mil.cn/rmt9502/3e6e7c5477314ec38f5e58e2a5c70024.m3u8?txSecret=57978fafb9c19880afa5c8687e8241d8&txTime=7A42BAFF$订阅源-1920x1080
-#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV7.png" group-title="📺马老爷子常看频道",CCTV-7
 http://live.junhao.mil.cn/rmt9502/3e6e7c5477314ec38f5e58e2a5c70024.m3u8?txSecret=57978fafb9c19880afa5c8687e8241d8&txTime=7A42BAFF$订阅源-1920x1080
-#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV8.png" group-title="📺马老爷子常看频道",CCTV-8
-http://xsbc.3sbio.com:35455/gaoma/cctv8k_36m.m3u8$订阅源-3840x2160
+#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV7.png" group-title="📺马老爷子常看频道",CCTV-7
+http://58.243.224.244:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=0&authid=0$订阅源-1920x1080
+#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV7.png" group-title="📺马老爷子常看频道",CCTV-7
+http://112.46.85.60:8009/hls/504/index.m3u8$订阅源-1920x1080
 #EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV8.png" group-title="📺马老爷子常看频道",CCTV-8
 http://huashetou.fun:35455/gaoma/cctv8k_36m.m3u8$订阅源-3840x2160
 #EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV8.png" group-title="📺马老爷子常看频道",CCTV-8
 http://php.jdshipin.com/TVOD/hljyd.php?id=3221226008$订阅源-1920x1080
 #EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV8.png" group-title="📺马老爷子常看频道",CCTV-8
-http://113.140.12.230:8888/newlive/live/hls/9/live.m3u8$订阅源-1920x1080
+http://112.46.85.60:8009/hls/8/index.m3u8$订阅源-1920x1080
 #EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV8.png" group-title="📺马老爷子常看频道",CCTV-8
-https://api.olelive.com/dis/live/CCTV8HD/hls.m3u8$订阅源-1920x1080
-#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV9.png" group-title="📺马老爷子常看频道",CCTV-9
-http://xsbc.3sbio.com:35455/gaoma/cctv9.m3u8$订阅源-3840x2160
+http://110.53.52.63:8888/newlive/live/hls/10/live.m3u8$订阅源-1920x1080
+#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV8.png" group-title="📺马老爷子常看频道",CCTV-8
+http://115.159.35.169:35455/gaoma/cctv8k_36m.m3u8$订阅源-1920x1080
 #EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV9.png" group-title="📺马老爷子常看频道",CCTV-9
 http://huashetou.fun:35455/gaoma/cctv9.m3u8$订阅源-3840x2160
 #EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV9.png" group-title="📺马老爷子常看频道",CCTV-9
@@ -98,9 +96,9 @@ http://php.jdshipin.com/TVOD/hljyd.php?id=3221225734$订阅源-1920x1080
 #EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV9.png" group-title="📺马老爷子常看频道",CCTV-9
 http://58.243.224.244:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=0&authid=0$订阅源-1920x1080
 #EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV9.png" group-title="📺马老爷子常看频道",CCTV-9
-https://api.olelive.com/dis/live/CCTV9HD/hls.m3u8$订阅源-1920x1080
-#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV10.png" group-title="📺马老爷子常看频道",CCTV-10
-http://xsbc.3sbio.com:35455/gaoma/cctv10.m3u8$订阅源-3840x2160
+http://112.46.85.60:8009/hls/509/index.m3u8$订阅源-1920x1080
+#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV9.png" group-title="📺马老爷子常看频道",CCTV-9
+http://110.53.52.63:8888/newlive/live/hls/11/live.m3u8$订阅源-1920x1080
 #EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV10.png" group-title="📺马老爷子常看频道",CCTV-10
 http://huashetou.fun:35455/gaoma/cctv10.m3u8$订阅源-3840x2160
 #EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV10.png" group-title="📺马老爷子常看频道",CCTV-10
@@ -108,9 +106,9 @@ http://php.jdshipin.com/TVOD/hljyd.php?id=3221225730$订阅源-1920x1080
 #EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV10.png" group-title="📺马老爷子常看频道",CCTV-10
 http://58.243.224.244:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0$订阅源-1920x1080
 #EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV10.png" group-title="📺马老爷子常看频道",CCTV-10
-http://113.140.12.230:8888/newlive/live/hls/11/live.m3u8$订阅源-1920x1080
-#EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV11.png" group-title="📺马老爷子常看频道",CCTV-11
-http://xsbc.3sbio.com:35455/gaoma/cctv11.m3u8$订阅源-3840x2160
+http://110.53.52.63:8888/newlive/live/hls/12/live.m3u8$订阅源-1920x1080
+#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV10.png" group-title="📺马老爷子常看频道",CCTV-10
+http://115.159.35.169:35455/gaoma/cctv10.m3u8$订阅源-1920x1080
 #EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV11.png" group-title="📺马老爷子常看频道",CCTV-11
 http://huashetou.fun:35455/gaoma/cctv11.m3u8$订阅源-3840x2160
 #EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV11.png" group-title="📺马老爷子常看频道",CCTV-11
@@ -118,9 +116,9 @@ http://php.jdshipin.com/TVOD/hljyd.php?id=3221226565$订阅源-1920x1080
 #EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV11.png" group-title="📺马老爷子常看频道",CCTV-11
 http://58.243.224.244:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=0&authid=0$订阅源-1920x1080
 #EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV11.png" group-title="📺马老爷子常看频道",CCTV-11
-http://113.140.12.230:8888/newlive/live/hls/12/live.m3u8$订阅源-1920x1080
-#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV12.png" group-title="📺马老爷子常看频道",CCTV-12
-http://xsbc.3sbio.com:35455/gaoma/cctv12.m3u8$订阅源-3840x2160
+http://110.53.52.63:8888/newlive/live/hls/13/live.m3u8$订阅源-1920x1080
+#EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV11.png" group-title="📺马老爷子常看频道",CCTV-11
+http://115.159.35.169:35455/gaoma/cctv11.m3u8$订阅源-1920x1080
 #EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV12.png" group-title="📺马老爷子常看频道",CCTV-12
 http://huashetou.fun:35455/gaoma/cctv12.m3u8$订阅源-3840x2160
 #EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV12.png" group-title="📺马老爷子常看频道",CCTV-12
@@ -128,9 +126,9 @@ http://php.jdshipin.com/TVOD/hljyd.php?id=3221225731$订阅源-1920x1080
 #EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV12.png" group-title="📺马老爷子常看频道",CCTV-12
 http://58.243.224.244:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=0&authid=0$订阅源-1920x1080
 #EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV12.png" group-title="📺马老爷子常看频道",CCTV-12
-http://113.140.12.230:8888/newlive/live/hls/13/live.m3u8$订阅源-1920x1080
-#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV13.png" group-title="📺马老爷子常看频道",CCTV-13
-http://xsbc.3sbio.com:35455/gaoma/cctv13.m3u8$订阅源-3840x2160
+http://112.46.85.60:8009/hls/507/index.m3u8$订阅源-1920x1080
+#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV12.png" group-title="📺马老爷子常看频道",CCTV-12
+http://110.53.52.63:8888/newlive/live/hls/14/live.m3u8$订阅源-1920x1080
 #EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV13.png" group-title="📺马老爷子常看频道",CCTV-13
 http://huashetou.fun:35455/gaoma/cctv13.m3u8$订阅源-3840x2160
 #EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV13.png" group-title="📺马老爷子常看频道",CCTV-13
@@ -138,9 +136,9 @@ http://php.jdshipin.com/TVOD/hljyd.php?id=3221226011$订阅源-1920x1080
 #EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV13.png" group-title="📺马老爷子常看频道",CCTV-13
 https://event.pull.hebtv.com/jishi/cp1.m3u8$订阅源-1920x1080
 #EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV13.png" group-title="📺马老爷子常看频道",CCTV-13
-https://api.olelive.com/dis/live/CCTV13HD/hls.m3u8$订阅源-1920x1080
-#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV14.png" group-title="📺马老爷子常看频道",CCTV-14
-http://xsbc.3sbio.com:35455/gaoma/cctv14.m3u8$订阅源-3840x2160
+http://110.53.52.63:8888/newlive/live/hls/15/live.m3u8$订阅源-1920x1080
+#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV13.png" group-title="📺马老爷子常看频道",CCTV-13
+http://116.128.243.121:85/tsfile/live/0013_1.m3u8?key=txiptv&playlive=0&authid=0$订阅源-1920x1080
 #EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV14.png" group-title="📺马老爷子常看频道",CCTV-14
 http://huashetou.fun:35455/gaoma/cctv14.m3u8$订阅源-3840x2160
 #EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV14.png" group-title="📺马老爷子常看频道",CCTV-14
@@ -149,8 +147,8 @@ http://php.jdshipin.com/TVOD/hljyd.php?id=3221225732$订阅源-1920x1080
 https://event.pull.hebtv.com/jishi/cp2.m3u8$订阅源-1920x1080
 #EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV14.png" group-title="📺马老爷子常看频道",CCTV-14
 http://58.243.224.244:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=0&authid=0$订阅源-1920x1080
-#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV15.png" group-title="📺马老爷子常看频道",CCTV-15
-http://xsbc.3sbio.com:35455/gaoma/cctv15.m3u8$订阅源-3840x2160
+#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV14.png" group-title="📺马老爷子常看频道",CCTV-14
+http://110.53.52.63:8888/newlive/live/hls/16/live.m3u8$订阅源-1920x1080
 #EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV15.png" group-title="📺马老爷子常看频道",CCTV-15
 http://huashetou.fun:35455/gaoma/cctv15.m3u8$订阅源-3840x2160
 #EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV15.png" group-title="📺马老爷子常看频道",CCTV-15
@@ -158,19 +156,19 @@ http://php.jdshipin.com/TVOD/hljyd.php?id=3221226476$订阅源-1920x1080
 #EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV15.png" group-title="📺马老爷子常看频道",CCTV-15
 http://58.243.224.244:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=0&authid=0$订阅源-1920x1080
 #EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV15.png" group-title="📺马老爷子常看频道",CCTV-15
-http://113.140.12.230:8888/newlive/live/hls/15/live.m3u8$订阅源-1920x1080
-#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV16.png" group-title="📺马老爷子常看频道",CCTV-16
-http://xsbc.3sbio.com:35455/gaoma/cctv16.m3u8$订阅源-3840x2160
+http://110.53.52.63:8888/newlive/live/hls/17/live.m3u8$订阅源-1920x1080
+#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV15.png" group-title="📺马老爷子常看频道",CCTV-15
+http://115.159.35.169:35455/gaoma/cctv15.m3u8$订阅源-1920x1080
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV16.png" group-title="📺马老爷子常看频道",CCTV-16
 http://huashetou.fun:35455/gaoma/cctv16.m3u8$订阅源-3840x2160
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV16.png" group-title="📺马老爷子常看频道",CCTV-16
 http://php.jdshipin.com:8880/bst2.php?id=cctv16hd4k/15000000$订阅源-1920x1080
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV16.png" group-title="📺马老爷子常看频道",CCTV-16
-https://api.olelive.com/dis/live/CCTV16HD/hls.m3u8$订阅源-1920x1080
+http://115.159.35.169:35455/gaoma/cctv16.m3u8$订阅源-1920x1080
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV16.png" group-title="📺马老爷子常看频道",CCTV-16
 http://nas.suntao.online:35455/gaoma/cctv16.m3u8$订阅源-1920x1080
-#EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV17.png" group-title="📺马老爷子常看频道",CCTV-17
-http://xsbc.3sbio.com:35455/gaoma/cctv17.m3u8$订阅源-3840x2160
+#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV16.png" group-title="📺马老爷子常看频道",CCTV-16
+http://hmjnas.drdjhmj.top:35455/gaoma/cctv16.m3u8$订阅源-1920x1080
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV17.png" group-title="📺马老爷子常看频道",CCTV-17
 http://huashetou.fun:35455/gaoma/cctv17.m3u8$订阅源-3840x2160
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV17.png" group-title="📺马老爷子常看频道",CCTV-17
@@ -178,17 +176,19 @@ http://php.jdshipin.com/TVOD/hljyd.php?id=3221225765$订阅源-1920x1080
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV17.png" group-title="📺马老爷子常看频道",CCTV-17
 http://58.243.224.244:9901/tsfile/live/1014_1.m3u8?key=txiptv&playlive=0&authid=0$订阅源-1920x1080
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV17.png" group-title="📺马老爷子常看频道",CCTV-17
-https://api.olelive.com/dis/live/CCTV17HD/hls.m3u8$订阅源-1920x1080
+http://115.159.35.169:35455/gaoma/cctv17.m3u8$订阅源-1920x1080
+#EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV17.png" group-title="📺马老爷子常看频道",CCTV-17
+http://nas.suntao.online:35455/gaoma/cctv17.m3u8$订阅源-1920x1080
 #EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/安徽卫视.png" group-title="📺马老爷子常看频道",安徽卫视
 http://php.jdshipin.com:8880/cqyx.php?id=ANHUISD$订阅源-1920x1080
 #EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/安徽卫视.png" group-title="📺马老爷子常看频道",安徽卫视
-http://43.129.81.169/live.ahsx.ahtv.cn/live/ahwssx.m3u8$订阅源-1920x1080
-#EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/安徽卫视.png" group-title="📺马老爷子常看频道",安徽卫视
 http://58.243.224.244:9901/tsfile/live/1015_1.m3u8?key=txiptv&playlive=0&authid=0$订阅源-1920x1080
 #EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/安徽卫视.png" group-title="📺马老爷子常看频道",安徽卫视
-http://36.32.174.67:60080/newlive/live/hls/34/live.m3u8$订阅源-1920x1080
+http://110.53.52.63:8888/newlive/live/hls/24/live.m3u8$订阅源-1920x1080
 #EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/安徽卫视.png" group-title="📺马老爷子常看频道",安徽卫视
 http://3501776.xyz:35455/itv/1000000005000265025.m3u8?cdn=ystenlive$订阅源-1920x1080
+#EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/安徽卫视.png" group-title="📺马老爷子常看频道",安徽卫视
+http://36.32.174.67:60080/newlive/live/hls/34/live.m3u8$订阅源-720x576
 #EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/江苏卫视.png" group-title="📺马老爷子常看频道",江苏卫视
 http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010059$订阅源-1920x1080
 #EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/江苏卫视.png" group-title="📺马老爷子常看频道",江苏卫视
@@ -198,17 +198,17 @@ http://150.158.112.123/%E5%85%AC%E4%BC%97%E5%8F%B7~%E7%8E%89%E7%8E%89%E8%BD%AF%E
 #EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/江苏卫视.png" group-title="📺马老爷子常看频道",江苏卫视
 http://58.243.224.244:9901/tsfile/live/1020_1.m3u8?key=txiptv&playlive=0&authid=0$订阅源-1920x1080
 #EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/江苏卫视.png" group-title="📺马老爷子常看频道",江苏卫视
-http://36.32.174.67:60080/newlive/live/hls/31/live.m3u8$订阅源-1920x1080
+http://112.46.85.60:8009/hls/33/index.m3u8$订阅源-1920x1080
 #EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/浙江卫视.png" group-title="📺马老爷子常看频道",浙江卫视
 https://s1.abntelevision.com/avivamientoabr/stream/avivamientohd/avivamientohd/chunks.m3u8$订阅源-1920x1080
 #EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/浙江卫视.png" group-title="📺马老爷子常看频道",浙江卫视
 http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010070$订阅源-1920x1080
 #EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/浙江卫视.png" group-title="📺马老爷子常看频道",浙江卫视
+http://zwebl02.cztv.com/live/channel011080P.m3u8?auth_key=2524708799-0-0-9a1229d8b9d311024ebea08c3fb1d63f$订阅源-1920x1080
+#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/浙江卫视.png" group-title="📺马老爷子常看频道",浙江卫视
 http://150.158.112.123/php/dl.php?id=浙江卫视$订阅源-1920x1080
 #EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/浙江卫视.png" group-title="📺马老爷子常看频道",浙江卫视
 http://58.243.224.244:9901/tsfile/live/1016_1.m3u8?key=txiptv&playlive=0&authid=0$订阅源-1920x1080
-#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/浙江卫视.png" group-title="📺马老爷子常看频道",浙江卫视
-http://3501776.xyz:35455/itv/1000000005000265031.m3u8?cdn=ystenlive️更新时间$订阅源-1920x1080
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/东方卫视.png" group-title="📺马老爷子常看频道",东方卫视
 http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010054$订阅源-1920x1080
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/东方卫视.png" group-title="📺马老爷子常看频道",东方卫视
@@ -216,8 +216,8 @@ http://150.158.112.123/%E5%85%AC%E4%BC%97%E5%8F%B7~%E7%8E%89%E7%8E%89%E8%BD%AF%E
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/东方卫视.png" group-title="📺马老爷子常看频道",东方卫视
 http://58.243.224.244:9901/tsfile/live/1017_1.m3u8?key=txiptv&playlive=0&authid=0$订阅源-1920x1080
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/东方卫视.png" group-title="📺马老爷子常看频道",东方卫视
-http://36.32.174.67:60080/newlive/live/hls/24/live.m3u8$订阅源-1920x1080
+http://112.46.85.60:8009/hls/31/index.m3u8$订阅源-1920x1080
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/东方卫视.png" group-title="📺马老爷子常看频道",东方卫视
-https://www.freetv.top/migu/651632648.m3u8?migutoken=e765bb663396911e0fa027f64c4378a4811b733586444461515451642f01e401c61987a7256405e562f272d4a45cf003c8974fd47f47765203988df87102570687a04fcdd402aa62918f1cad2f$订阅源-1920x1080
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2025-04-06 06:19:57
-http://xsbc.3sbio.com:35455/gaoma/cctv1.m3u8$订阅源-3840x2160
+http://110.53.52.63:8888/newlive/live/hls/19/live.m3u8$订阅源-1920x1080
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2025-04-08 06:20:12
+http://huashetou.fun:35455/gaoma/cctv1.m3u8$订阅源-3840x2160
