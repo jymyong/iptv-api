@@ -1,28 +1,22 @@
 📺常看频道,#genre#
-CCTV-1,http://1b6467f415.iok.la:9931/tsfile/live/1020_1.m3u8
-CCTV-4,http://183.11.239.36:808/hls/22/index.m3u8
-CCTV-5,http://58.57.40.22:9901/tsfile/live/1004_1.m3u8
-CCTV-6,http://1b6467f415.iok.la:9931/tsfile/live/1026_1.m3u8
-CCTV-7,http://182.150.23.74:808/hls/7/index.m3u8
-CCTV-7,http://58.57.40.22:9901/tsfile/live/1007_1.m3u8
-CCTV-8,http://58.57.40.22:9901/tsfile/live/1008_1.m3u8
-CCTV-9,http://58.57.40.22:9901/tsfile/live/1009_1.m3u8
-CCTV-10,http://58.57.40.22:9901/tsfile/live/1010_1.m3u8
-CCTV-11,http://58.57.40.22:9901/tsfile/live/1011_1.m3u8
-CCTV-12,http://116.9.204.242:9901/tsfile/live/0012_1.m3u8
-CCTV-12,http://58.57.40.22:9901/tsfile/live/1012_1.m3u8
+CCTV-2,http://1b6467f415.iok.la:9931/tsfile/live/1021_1.m3u8
+CCTV-2,http://58.57.40.22:9901/tsfile/live/1001_1.m3u8
+CCTV-3,http://gmxw.7766.org:808/hls/91/index.m3u8
+CCTV-3,http://1b6467f415.iok.la:9931/tsfile/live/1022_1.m3u8
+CCTV-4,http://110.53.52.63:8888/newlive/live/hls/5/live.m3u8
+CCTV-7,http://112.46.85.60:8009/hls/504/index.m3u8
+CCTV-7,http://60.29.124.66:6080/hls/18/index.m3u8
+CCTV-11,http://1b6467f415.iok.la:9931/tsfile/live/1031_1.m3u8
+CCTV-12,http://112.46.85.60:8009/hls/507/index.m3u8
 CCTV-13,http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8
-CCTV-13,http://58.57.40.22:9901/tsfile/live/1013_1.m3u8
-CCTV-17,http://1b6467f415.iok.la:9931/tsfile/live/1130_1.m3u8
+CCTV-15,http://gmxw.7766.org:808/hls/102/index.m3u8
 安徽卫视,http://satellitepull.cnr.cn/live/wxahws/playlist.m3u8
-安徽卫视,http://58.57.40.22:9901/tsfile/live/1033_1.m3u8
-江苏卫视,http://183.11.239.36:808/hls/38/index.m3u8
-江苏卫视,http://39.164.180.36:19901/tsfile/live/0127_1.m3u8?key=txiptv&playlive=0&authid=0
+安徽卫视,http://222.169.85.8:9901/tsfile/live/0130_1.m3u8
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 浙江卫视,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
-浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8#mitv://generationnexxxt.com:19806/7bf4b3a65eaf421ab6d71bd8dcc4547a
-浙江卫视,http://58.57.40.22:9901/tsfile/live/1029_1.m3u8
+浙江卫视,http://58.17.48.228:808/hls/32/index.m3u8
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
+北京卫视,http://223.105.252.8/PLTV/4/224/3221228115/index.m3u8
 
 💰央视付费频道,#genre#
 风云音乐,http://dassby.qqff.top:99/live/风云音乐/index.m3u8
@@ -52,13 +46,13 @@ CCTV-17,http://1b6467f415.iok.la:9931/tsfile/live/1130_1.m3u8
 📡卫视频道,#genre#
 广东卫视,http://satellitepull.cnr.cn/live/wxgdws/playlist.m3u8
 湖南卫视,http://119.32.12.17:2901/udp/224.1.100.98:11111
-湖北卫视,http://119.32.12.17:2901/udp/224.1.100.68:11111
 湖北卫视,http://www.745612.xyz:7788/rtp/235.254.198.72:1564
+湖北卫视,http://119.32.12.17:2901/udp/224.1.100.68:11111
 黑龙江卫视,https://s1.abntelevision.com/avivamientoabr/stream/avivamientohd/avivamientohd/chunks.m3u8
 东南卫视,http://satellitepull.cnr.cn/live/wx32fjws/playlist.m3u8
 甘肃卫视,http://satellitepull.cnr.cn/live/wxgsws/playlist.m3u8
-河南卫视,http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
+河南卫视,http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8
 河南卫视,http://119.32.12.17:2901/udp/224.1.100.74:11111
 吉林卫视,http://satellitepull.cnr.cn/live/wxjlws/playlist.m3u8
 山东卫视,http://satellitepull.cnr.cn/live/wxsdws/playlist.m3u8
@@ -75,8 +69,8 @@ CCTV-17,http://1b6467f415.iok.la:9931/tsfile/live/1130_1.m3u8
 东森洋片,https://cdn.iptv8k.top/dl/jrys.php?id=232&time=20240926215313&ip=111.229.253.40
 东森超视,https://cdn.iptv8k.top/dl/jrys.php?id=216&time=20240926215313&ip=111.229.253.40
 东森超视,https://cdn.iptv8k.top/dl/jrys.php?id=217&time=20240926215313&ip=111.229.253.40
-东森超视,http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
 东森超视,http://38.64.72.148:80/hls/modn/list/2013/chunklist0.m3u8
+东森超视,http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
 
 🕘️更新时间,#genre#
-2025-06-02 06:21:25,http://1b6467f415.iok.la:9931/tsfile/live/1020_1.m3u8
+2025-06-02 14:14:40,http://1b6467f415.iok.la:9931/tsfile/live/1021_1.m3u8
