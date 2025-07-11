@@ -1,21 +1,17 @@
 📺常看频道,#genre#
 CCTV-3,http://120.76.248.139/live/bfgd/4200000062.m3u8
-CCTV-4,http://58.19.43.46:9901/tsfile/live/1023_1.m3u8
-CCTV-4,http://112.46.85.60:8009/hls/4/index.m3u8
-CCTV-4,http://nas.hssvm.com:8888/udp/225.1.1.150:5002
 CCTV-5,http://omnix.cn:4000/udp/225.1.8.89:8000
 CCTV-6,http://120.76.248.139/live/bfgd/4200000065.m3u8
 CCTV-7,http://omnix.cn:4000/udp/225.1.8.7:8104
-CCTV-8,http://58.221.214.82:9901/tsfile/live/0008_1.m3u8
+CCTV-7,http://61.138.128.226:19901/tsfile/live/0008_1.m3u8
 CCTV-9,http://omnix.cn:4000/udp/225.1.8.9:8112
 CCTV-12,http://nas.hssvm.com:8888/udp/225.1.1.142:5002
-CCTV-15,http://58.19.43.46:9901/tsfile/live/1034_1.m3u8
 安徽卫视,http://satellitepull.cnr.cn/live/wxahws/playlist.m3u8
-安徽卫视,http://58.243.224.242:9901/tsfile/live/1015_1.m3u8?key=txiptv&playlive=0&authid=0
-安徽卫视,http://nas.hssvm.com:8888/udp/225.1.1.127:5002
+安徽卫视,http://drive.mxmy.net:8888/udp/239.3.1.211:8064
 东方卫视,http://omnix.cn:4000/udp/225.1.8.45:8032
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 北京卫视,http://120.76.248.139/live/bfgd/4200000083.m3u8
+北京卫视,http://182.150.23.74:808/hls/17/index.m3u8
 
 💰央视付费频道,#genre#
 风云音乐,http://dassby.qqff.top:99/live/风云音乐/index.m3u8
@@ -27,10 +23,10 @@ CCTV-15,http://58.19.43.46:9901/tsfile/live/1034_1.m3u8
 风云剧场,rtsp://115.153.247.80/PLTV/88888888/224/3221226963/86128874.smil
 风云剧场,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226963/86128874.smil
 风云剧场,rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000409?AuthInfo=xxx&userid=gf001&userid=gf001
+怀旧剧场,http://dassby.qqff.top:99/live/怀旧剧场/index.m3u8
 怀旧剧场,rtsp://115.153.245.70/PLTV/88888888/224/3221226996/86128881.smil
 怀旧剧场,rtsp://115.153.247.80/PLTV/88888888/224/3221226996/86128881.smil
 怀旧剧场,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226996/86128881.smil
-怀旧剧场,http://dassby.qqff.top:99/live/怀旧剧场/index.m3u8
 女性时尚,http://dassby.qqff.top:99/live/女性时尚/index.m3u8
 高尔夫网球,rtsp://115.153.245.70/PLTV/88888888/224/3221226967/86128985.smil
 高尔夫网球,rtsp://115.153.247.80/PLTV/88888888/224/3221226967/86128985.smil
@@ -47,8 +43,8 @@ CCTV-15,http://58.19.43.46:9901/tsfile/live/1034_1.m3u8
 湖北卫视,http://www.745612.xyz:7788/rtp/235.254.198.72:1564
 东南卫视,http://satellitepull.cnr.cn/live/wx32fjws/playlist.m3u8
 甘肃卫视,http://satellitepull.cnr.cn/live/wxgsws/playlist.m3u8
-河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
 河南卫视,http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8
+河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
 吉林卫视,http://satellitepull.cnr.cn/live/wxjlws/playlist.m3u8
 山东卫视,http://satellitepull.cnr.cn/live/wxsdws/playlist.m3u8
 
@@ -63,9 +59,8 @@ CCTV-15,http://58.19.43.46:9901/tsfile/live/1034_1.m3u8
 东森洋片,https://cdn.iptv8k.top/dl/jrys.php?id=232&time=20240926215313&ip=111.229.253.40
 东森超视,https://cdn.iptv8k.top/dl/jrys.php?id=217&time=20240926215313&ip=111.229.253.40
 东森超视,https://cdn.iptv8k.top/dl/jrys.php?id=216&time=20240926215313&ip=111.229.253.40
-东森超视,https://cdn.iptv8k.top/dl/jrys.php?id=216&time=20240926215313&ip=111.229.253.40#rtmp://f13h.mine.nu/sat/tv331#rtmp://f13h.mine.nu/sat/tv331
 东森超视,http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
 东森超视,http://38.64.72.148:80/hls/modn/list/2013/chunklist0.m3u8
 
 🕘️更新时间,#genre#
-2025-07-08 06:18:05,http://120.76.248.139/live/bfgd/4200000062.m3u8
+2025-07-12 06:17:01,http://120.76.248.139/live/bfgd/4200000062.m3u8
