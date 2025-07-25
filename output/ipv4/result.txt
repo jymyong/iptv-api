@@ -1,13 +1,10 @@
 📺常看频道,#genre#
-CCTV-4,http://61.138.128.226:19901/tsfile/live/0004_1.m3u8
-CCTV-4,http://218.89.240.144:59901/tsfile/live/1001_1.m3u8
-CCTV-4,http://113.25.252.226:9901/tsfile/live/0004_1.m3u8
+CCTV-3,http://112.46.85.60:8009/hls/3/index.m3u8
+CCTV-3,http://223.241.247.214:9901/tsfile/live/0003_1.m3u8
 CCTV-5,http://omnix.cn:4000/udp/225.1.8.89:8000
 CCTV-7,http://omnix.cn:4000/udp/225.1.8.7:8104
 CCTV-9,http://omnix.cn:4000/udp/225.1.8.9:8112
 CCTV-12,http://nas.hssvm.com:8888/udp/225.1.1.142:5002
-CCTV-15,http://61.156.228.12:8154/tsfile/live/0015_1.m3u8
-CCTV-15,http://124.128.73.58:9901/tsfile/live/0015_1.m3u8
 安徽卫视,http://satellitepull.cnr.cn/live/wxahws/playlist.m3u8
 安徽卫视,http://drive.mxmy.net:8888/udp/239.3.1.211:8064
 浙江卫视,http://120.76.248.139/live/bfgd/4200000094.m3u8
@@ -43,11 +40,8 @@ CCTV-15,http://124.128.73.58:9901/tsfile/live/0015_1.m3u8
 广东卫视,http://satellitepull.cnr.cn/live/wxgdws/playlist.m3u8
 湖北卫视,http://www.745612.xyz:7788/rtp/235.254.198.72:1564
 东南卫视,http://satellitepull.cnr.cn/live/wx32fjws/playlist.m3u8
-东南卫视,http://124.128.73.58:9901/tsfile/live/0137_1.m3u8
-甘肃卫视,http://satellitepull.cnr.cn/live/wxgsws/playlist.m3u8
-河北卫视,http://1.24.190.98:10080/hls/78/index.m3u8
-河南卫视,http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
+河南卫视,http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8
 吉林卫视,http://satellitepull.cnr.cn/live/wxjlws/playlist.m3u8
 山东卫视,http://satellitepull.cnr.cn/live/wxsdws/playlist.m3u8
 
@@ -61,10 +55,9 @@ CCTV-15,http://124.128.73.58:9901/tsfile/live/0015_1.m3u8
 东森电影,https://cdn.iptv8k.top/dl/jrys.php?id=231&time=20240926215313&ip=111.229.253.40
 东森洋片,https://cdn.iptv8k.top/dl/jrys.php?id=232&time=20240926215313&ip=111.229.253.40
 东森超视,https://cdn.iptv8k.top/dl/jrys.php?id=216&time=20240926215313&ip=111.229.253.40
-东森超视,https://cdn.iptv8k.top/dl/jrys.php?id=216&time=20240926215313&ip=111.229.253.40#rtmp://f13h.mine.nu/sat/tv331#rtmp://f13h.mine.nu/sat/tv331
 东森超视,https://cdn.iptv8k.top/dl/jrys.php?id=217&time=20240926215313&ip=111.229.253.40
-东森超视,http://38.64.72.148:80/hls/modn/list/2013/chunklist0.m3u8
 东森超视,http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
+东森超视,http://38.64.72.148:80/hls/modn/list/2013/chunklist0.m3u8
 
 🕘️更新时间,#genre#
-2025-07-22 06:19:29,http://61.138.128.226:19901/tsfile/live/0004_1.m3u8
+2025-07-26 06:18:04,http://112.46.85.60:8009/hls/3/index.m3u8
