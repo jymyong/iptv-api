@@ -1,10 +1,9 @@
 📺常看频道,#genre#
-CCTV-4,http://111.43.126.240:9003/hls/16/index.m3u8
-CCTV-9,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221225820/index.m3u8
 CCTV-9,http://drive.mxmy.net:8888/udp/239.3.1.62:8112
 CCTV-16,http://drive.mxmy.net:8888/udp/239.3.1.184:8001
 安徽卫视,http://satellitepull.cnr.cn/live/wxahws/playlist.m3u8
 安徽卫视,http://drive.mxmy.net:8888/udp/239.3.1.211:8064
+安徽卫视,http://111.227.196.164:9901/tsfile/live/0130_1.m3u8
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 
 💰央视付费频道,#genre#
@@ -12,21 +11,20 @@ CCTV-16,http://drive.mxmy.net:8888/udp/239.3.1.184:8001
 风云音乐,rtsp://115.153.245.70/PLTV/88888888/224/3221226994/86128897.smil
 风云音乐,rtsp://115.153.247.80/PLTV/88888888/224/3221226994/86128897.smil
 风云音乐,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226994/86128897.smil
-风云剧场,http://dassby.qqff.top:99/live/风云剧场/index.m3u8
-风云剧场,rtsp://115.153.245.70/PLTV/88888888/224/3221226963/86128874.smil
-风云剧场,rtsp://115.153.247.80/PLTV/88888888/224/3221226963/86128874.smil
-风云剧场,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226963/86128874.smil
-风云剧场,rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000409?AuthInfo=xxx&userid=gf001&userid=gf001
+第一剧场,http://120.198.95.220:9901/tsfile/live/1071_1.m3u8?key=txiptv
+第一剧场,http://61.184.46.85:9901/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
+怀旧剧场,http://111.61.236.247:9081/hls/67/index.m3u8
+女性时尚,http://111.61.236.247:9081/hls/59/index.m3u8
 高尔夫网球,rtsp://115.153.245.70/PLTV/88888888/224/3221226967/86128985.smil
 高尔夫网球,rtsp://115.153.247.80/PLTV/88888888/224/3221226967/86128985.smil
 高尔夫网球,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226967/86128985.smil
+世界地理,http://111.61.236.247:9081/hls/62/index.m3u8
 兵器科技,rtsp://115.153.245.70/PLTV/88888888/224/3221227004/86132185.smil
 兵器科技,rtsp://115.153.247.80/PLTV/88888888/224/3221227004/86132185.smil
 兵器科技,rtsp://115.153.222.112:554/PLTV/88888888/224/3221227004/86132185.smil
 
 📡卫视频道,#genre#
 广东卫视,http://satellitepull.cnr.cn/live/wxgdws/playlist.m3u8
-广东卫视,http://8.134.110.147:5300/?id=gdws
 湖北卫视,http://www.745612.xyz:7788/rtp/235.254.198.72:1564
 东南卫视,http://satellitepull.cnr.cn/live/wx32fjws/playlist.m3u8
 河南卫视,http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8
@@ -35,10 +33,12 @@ CCTV-16,http://drive.mxmy.net:8888/udp/239.3.1.184:8001
 山东卫视,http://satellitepull.cnr.cn/live/wxsdws/playlist.m3u8
 
 🎬电影频道,#genre#
-黑莓电影,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221227448/index.m3u8
+CHC动作电影,http://111.43.126.240:9003/hls/75/index.m3u8
 纬来电影,https://pixman.mytvsuper.com.mp/Smart.php?id=videolandmovie
 靖天映画,https://cdn.iptv8k.top/dl/jrys.php?id=320&time=20240926215313&ip=111.229.253.40
+靖天映画,http://xn--elt51t.azip.dpdns.org:5008/li-4gtv-4gtv055/index.m3u8?proxy=true
 靖天戏剧,https://cdn.iptv8k.top/dl/jrys.php?id=318&time=20240926215313&ip=111.229.253.40
+靖天戏剧,http://xn--elt51t.azip.dpdns.org:5008/li-4gtv-4gtv058/index.m3u8?proxy=true
 经典电影,https://cdn.iptv8k.top/dl/jrys.php?id=396&time=20240926215313&ip=111.229.253.40
 经典电影,http://lxajh.top/tv/douyu.php?id=74374
 天映经典,https://cdn.iptv8k.top/dl/jrys.php?id=71&time=20240926215313&ip=111.229.253.40
@@ -46,10 +46,11 @@ CCTV-16,http://drive.mxmy.net:8888/udp/239.3.1.184:8001
 东森电影,https://cdn.iptv8k.top/dl/jrys.php?id=231&time=20240926215313&ip=111.229.253.40
 龙祥电影,https://pixman.mytvsuper.com.mp/Smart.php?id=lungxiangtime_twn
 东森洋片,https://cdn.iptv8k.top/dl/jrys.php?id=232&time=20240926215313&ip=111.229.253.40
-东森超视,https://cdn.iptv8k.top/dl/jrys.php?id=216&time=20240926215313&ip=111.229.253.40
 东森超视,https://cdn.iptv8k.top/dl/jrys.php?id=217&time=20240926215313&ip=111.229.253.40
+东森超视,https://cdn.iptv8k.top/dl/jrys.php?id=216&time=20240926215313&ip=111.229.253.40#rtmp://f13h.mine.nu/sat/tv331#rtmp://f13h.mine.nu/sat/tv331
+东森超视,https://cdn.iptv8k.top/dl/jrys.php?id=216&time=20240926215313&ip=111.229.253.40
 东森超视,http://38.64.72.148:80/hls/modn/list/2013/chunklist0.m3u8
 东森超视,http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
 
 🕘️更新时间,#genre#
-2025-09-06 06:16:41,http://111.43.126.240:9003/hls/16/index.m3u8
+2025-09-09 06:17:11,http://drive.mxmy.net:8888/udp/239.3.1.62:8112
