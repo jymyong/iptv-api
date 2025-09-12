@@ -120,8 +120,10 @@ CCTV-17,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888
 央视台球,https://epg.pw/stream/25677ac2e8c1f7c3dd6359c43eb5f0f54efb3f5c11f9dda18d01b3e0308ed017.m3u8
 第一剧场,https://epg.pw/stream/6d7bf281e3d739806a73f5373acaa6e01988ec9739f5ac1355ce54b47a928472.m3u8
 风云剧场,https://mursor.ottiptv.cc/mcp/fyjc.m3u8
+风云剧场,https://mursor.ottiptv.cc/mcp/fyjc.m3u8?sign=4504fb617281e8909e4259760d3b64d8&tm=1757535222
 怀旧剧场,https://cc06.tv12.xyz/52.m3u8
 怀旧剧场,https://mursor.ottiptv.cc/mcp/hjjc.m3u8
+怀旧剧场,https://mursor.ottiptv.cc/mcp/hjjc.m3u8?sign=f5f7142ffa4404d36f8ae92335393d5e&tm=1757535222
 女性时尚,https://cc06.tv12.xyz/95.m3u8
 风云足球,https://epg.pw/stream/6d7bf281e3d739806a73f5373acaa6e01988ec9739f5ac1355ce54b47a928472.m3u8
 风云足球,https://epg.pw/stream/ac8062ec9484078061d3bef507c15a423ac57ae4144e3fcc4b0a198dd420f911.m3u8
@@ -331,4 +333,4 @@ NewTV动作电影,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/46000008
 东森超视,https://stream1.freetv.fun/dong-sen-chao-shi-8.ctv
 
 🕘️更新时间,#genre#
-2025-09-09 06:17:11,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2025-09-13 06:16:19,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
