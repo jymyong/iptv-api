@@ -1,8 +1,14 @@
 📺常看频道,#genre#
+CCTV-4,http://1.195.131.143:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-9,http://drive.mxmy.net:8888/udp/239.3.1.62:8112
+CCTV-9,http://60.16.0.216:5757/hls/10/index.m3u8
+CCTV-11,http://60.16.0.216:5757/hls/12/index.m3u8
+CCTV-12,http://60.16.0.216:5757/hls/13/index.m3u8
 CCTV-16,http://drive.mxmy.net:8888/udp/239.3.1.184:8001
 安徽卫视,http://satellitepull.cnr.cn/live/wxahws/playlist.m3u8
 安徽卫视,http://drive.mxmy.net:8888/udp/239.3.1.211:8064
+安徽卫视,http://1b6467f415.iok.la:9931/tsfile/live/1062_1.m3u8
+江苏卫视,http://60.16.0.216:5757/hls/24/index.m3u8
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 
 💰央视付费频道,#genre#
@@ -20,13 +26,22 @@ CCTV-16,http://drive.mxmy.net:8888/udp/239.3.1.184:8001
 📡卫视频道,#genre#
 广东卫视,http://satellitepull.cnr.cn/live/wxgdws/playlist.m3u8
 湖北卫视,http://www.745612.xyz:7788/rtp/235.254.198.72:1564
+湖北卫视,http://60.16.0.216:5757/hls/33/index.m3u8
+重庆卫视,http://60.16.0.216:5757/hls/36/index.m3u8
 东南卫视,http://satellitepull.cnr.cn/live/wx32fjws/playlist.m3u8
+广西卫视,http://60.16.0.216:5757/hls/45/index.m3u8
+贵州卫视,http://60.16.0.216:5757/hls/37/index.m3u8
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
 河南卫视,http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8
+河南卫视,http://60.16.0.216:5757/hls/42/index.m3u8
 吉林卫视,http://satellitepull.cnr.cn/live/wxjlws/playlist.m3u8
+吉林卫视,http://60.16.0.216:5757/hls/44/index.m3u8
+辽宁卫视,http://60.16.0.216:5757/hls/32/index.m3u8
+内蒙古卫视,http://60.16.0.216:5757/hls/41/index.m3u8
+青海卫视,http://60.16.0.216:5757/hls/43/index.m3u8
 山东卫视,http://satellitepull.cnr.cn/live/wxsdws/playlist.m3u8
-山西卫视,http://60.16.0.216:5757/hls/39/index.m3u8
-陕西卫视,http://60.16.0.216:5757/hls/40/index.m3u8
+山西卫视,http://sh.lnott.top:880/dx39.m3u8
+深圳卫视,http://60.16.0.216:5757/hls/19/index.m3u8
 
 🎬电影频道,#genre#
 靖天映画,https://cdn.iptv8k.top/dl/jrys.php?id=320&time=20240926215313&ip=111.229.253.40
@@ -37,10 +52,11 @@ CCTV-16,http://drive.mxmy.net:8888/udp/239.3.1.184:8001
 星空卫视,https://cdn.iptv8k.top/dl/jrys.php?id=21&time=20240926215313&ip=111.229.253.40
 东森电影,https://cdn.iptv8k.top/dl/jrys.php?id=231&time=20240926215313&ip=111.229.253.40
 东森洋片,https://cdn.iptv8k.top/dl/jrys.php?id=232&time=20240926215313&ip=111.229.253.40
-东森超视,https://cdn.iptv8k.top/dl/jrys.php?id=216&time=20240926215313&ip=111.229.253.40
 东森超视,https://cdn.iptv8k.top/dl/jrys.php?id=217&time=20240926215313&ip=111.229.253.40
-东森超视,http://38.64.72.148:80/hls/modn/list/2013/chunklist0.m3u8
+东森超视,https://cdn.iptv8k.top/dl/jrys.php?id=216&time=20240926215313&ip=111.229.253.40#rtmp://f13h.mine.nu/sat/tv331#rtmp://f13h.mine.nu/sat/tv331
+东森超视,https://cdn.iptv8k.top/dl/jrys.php?id=216&time=20240926215313&ip=111.229.253.40
 东森超视,http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
+东森超视,http://38.64.72.148:80/hls/modn/list/2013/chunklist0.m3u8
 
 🕘️更新时间,#genre#
-2025-10-04 06:16:38,http://drive.mxmy.net:8888/udp/239.3.1.62:8112
+2025-10-07 06:17:20,http://1.195.131.143:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0

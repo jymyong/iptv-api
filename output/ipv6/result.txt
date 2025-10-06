@@ -295,9 +295,11 @@ CHC动作电影,http://[2409:8087:1a01:df::4021]:80/TVOD/88888888/224/3221225555
 淘剧场,http://[2409:8087:1:20:20::26]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226553/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EQaJ92NID2SpQlY6_VJVogg%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNOuQYJeiYEeFWTkFfE86Vq-%2CEND
 淘剧场,http://dsj.motem.top:8880/bptv/10000100000000050000000003887497.m3u8
 淘剧场,http://zjzcf.synology.me:35455/bptv/10000100000000050000000003887497.m3u8
+淘剧场,http://missyao.com:35455/bptv/10000100000000050000000003887497.m3u8
 淘娱乐,http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226551/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Ex0efg9fpenP8E8lWJUb5Lg%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNNg3bzRax0E9tLmO9xgXVx8%2CEND
 淘娱乐,http://dsj.motem.top:8880/bptv/10000100000000050000000003887499.m3u8
 淘娱乐,http://zjzcf.synology.me:35455/bptv/10000100000000050000000003887499.m3u8
+淘娱乐,http://missyao.com:35455/bptv/10000100000000050000000003887499.m3u8
 淘电影,http://[2409:8087:1:20:20::26]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EXOsrWMA-UCdUl1hQSR9EKw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNNg3bzRax0E9tLmO9xgXVx8%2CEND
 淘电影,http://dsj.motem.top:8880/bptv/10000100000000050000000003887498.m3u8
 淘电影,http://yc.myds.me:35455/bptv/10000100000000050000000003887498.m3u8
@@ -337,4 +339,4 @@ NewTV动作电影,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/46000008
 东森超视,https://stream1.freetv.fun/dong-sen-chao-shi-8.ctv
 
 🕘️更新时间,#genre#
-2025-10-04 06:16:38,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2025-10-07 06:17:20,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
