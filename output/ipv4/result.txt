@@ -3,6 +3,8 @@ CCTV-9,http://drive.mxmy.net:8888/udp/239.3.1.62:8112
 CCTV-16,http://drive.mxmy.net:8888/udp/239.3.1.184:8001
 安徽卫视,http://satellitepull.cnr.cn/live/wxahws/playlist.m3u8
 安徽卫视,http://drive.mxmy.net:8888/udp/239.3.1.211:8064
+江苏卫视,http://pa.kuangdeng.top:8081/hls/19/index.m3u8
+浙江卫视,http://pa.kuangdeng.top:8081/hls/18/index.m3u8
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 
 💰央视付费频道,#genre#
@@ -19,13 +21,13 @@ CCTV-16,http://drive.mxmy.net:8888/udp/239.3.1.184:8001
 
 📡卫视频道,#genre#
 广东卫视,http://satellitepull.cnr.cn/live/wxgdws/playlist.m3u8
+湖南卫视,http://pa.kuangdeng.top:8081/hls/16/index.m3u8
 湖北卫视,http://www.745612.xyz:7788/rtp/235.254.198.72:1564
 东南卫视,http://satellitepull.cnr.cn/live/wx32fjws/playlist.m3u8
+东南卫视,http://1b6467f415.iok.la:9931/tsfile/live/1075_1.m3u8
 河南卫视,http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8
 吉林卫视,http://satellitepull.cnr.cn/live/wxjlws/playlist.m3u8
 山东卫视,http://satellitepull.cnr.cn/live/wxsdws/playlist.m3u8
-山西卫视,http://pa.kuangdeng.top:8081/hls/44/index.m3u8
-三沙卫视,http://pa.kuangdeng.top:8081/hls/37/index.m3u8
 
 🎬电影频道,#genre#
 靖天映画,https://cdn.iptv8k.top/dl/jrys.php?id=320&time=20240926215313&ip=111.229.253.40
@@ -37,9 +39,10 @@ CCTV-16,http://drive.mxmy.net:8888/udp/239.3.1.184:8001
 东森电影,https://cdn.iptv8k.top/dl/jrys.php?id=231&time=20240926215313&ip=111.229.253.40
 东森洋片,https://cdn.iptv8k.top/dl/jrys.php?id=232&time=20240926215313&ip=111.229.253.40
 东森超视,https://cdn.iptv8k.top/dl/jrys.php?id=216&time=20240926215313&ip=111.229.253.40
+东森超视,https://cdn.iptv8k.top/dl/jrys.php?id=216&time=20240926215313&ip=111.229.253.40#rtmp://f13h.mine.nu/sat/tv331#rtmp://f13h.mine.nu/sat/tv331
 东森超视,https://cdn.iptv8k.top/dl/jrys.php?id=217&time=20240926215313&ip=111.229.253.40
 东森超视,http://38.64.72.148:80/hls/modn/list/2013/chunklist0.m3u8
 东森超视,http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
 
 🕘️更新时间,#genre#
-2025-10-11 06:16:27,http://drive.mxmy.net:8888/udp/239.3.1.62:8112
+2025-10-14 06:19:35,http://drive.mxmy.net:8888/udp/239.3.1.62:8112
