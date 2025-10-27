@@ -1,22 +1,17 @@
 📺常看频道,#genre#
-CCTV-5,http://1.31.14.70:54321/hls/7/index.m3u8
-CCTV-6,http://1.31.14.70:54321/hls/8/index.m3u8
-CCTV-8,http://1.31.14.70:54321/hls/14/index.m3u8
+CCTV-2,http://112.46.85.60:8009/hls/502/index.m3u8
 CCTV-9,http://drive.mxmy.net:8888/udp/239.3.1.62:8112
-CCTV-11,http://1.31.14.70:54321/hls/16/index.m3u8
-CCTV-12,http://1.31.14.70:54321/hls/12/index.m3u8
 CCTV-16,http://drive.mxmy.net:8888/udp/239.3.1.184:8001
 安徽卫视,http://satellitepull.cnr.cn/live/wxahws/playlist.m3u8
 安徽卫视,http://drive.mxmy.net:8888/udp/239.3.1.211:8064
-江苏卫视,http://1.31.14.70:54321/hls/3/index.m3u8
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
+北京卫视,http://223.105.252.8/PLTV/4/224/3221227694/index.m3u8
 
 💰央视付费频道,#genre#
 风云音乐,http://dassby.qqff.top:99/live/风云音乐/index.m3u8
 风云音乐,rtsp://115.153.245.70/PLTV/88888888/224/3221226994/86128897.smil
 风云音乐,rtsp://115.153.247.80/PLTV/88888888/224/3221226994/86128897.smil
 风云音乐,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226994/86128897.smil
-第一剧场,http://1.31.14.70:54321/hls/59/index.m3u8
 高尔夫网球,rtsp://115.153.245.70/PLTV/88888888/224/3221226967/86128985.smil
 高尔夫网球,rtsp://115.153.247.80/PLTV/88888888/224/3221226967/86128985.smil
 高尔夫网球,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226967/86128985.smil
@@ -26,32 +21,29 @@ CCTV-16,http://drive.mxmy.net:8888/udp/239.3.1.184:8001
 
 📡卫视频道,#genre#
 广东卫视,http://satellitepull.cnr.cn/live/wxgdws/playlist.m3u8
-广东卫视,http://1.31.14.70:54321/hls/28/index.m3u8
 湖北卫视,http://www.745612.xyz:7788/rtp/235.254.198.72:1564
-湖北卫视,http://1.31.14.70:54321/hls/39/index.m3u8
-重庆卫视,http://1.31.14.70:54321/hls/34/index.m3u8
 东南卫视,http://satellitepull.cnr.cn/live/wx32fjws/playlist.m3u8
 河南卫视,http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8
 吉林卫视,http://satellitepull.cnr.cn/live/wxjlws/playlist.m3u8
-内蒙古卫视,http://1.31.14.70:54321/hls/55/index.m3u8
 山东卫视,http://satellitepull.cnr.cn/live/wxsdws/playlist.m3u8
-山东卫视,http://1.31.14.70:54321/hls/32/index.m3u8
-四川卫视,http://1.31.14.70:54321/hls/41/index.m3u8
+新疆卫视,http://sh.lnott.top:880/dx55.m3u8
 
 🎬电影频道,#genre#
 靖天映画,https://cdn.iptv8k.top/dl/jrys.php?id=320&time=20240926215313&ip=111.229.253.40
 靖天戏剧,https://cdn.iptv8k.top/dl/jrys.php?id=318&time=20240926215313&ip=111.229.253.40
 经典电影,https://cdn.iptv8k.top/dl/jrys.php?id=396&time=20240926215313&ip=111.229.253.40
 经典电影,http://lxajh.top/tv/douyu.php?id=74374
+IPTV经典电影,http://113.88.211.3:9898/hls/71/index.m3u8
 天映经典,https://cdn.iptv8k.top/dl/jrys.php?id=71&time=20240926215313&ip=111.229.253.40
 星空卫视,https://cdn.iptv8k.top/dl/jrys.php?id=21&time=20240926215313&ip=111.229.253.40
 星空卫视,http://122.53.222.9:9981/stream/channelid/2084767267?profile=pass
 东森电影,https://cdn.iptv8k.top/dl/jrys.php?id=231&time=20240926215313&ip=111.229.253.40
 东森洋片,https://cdn.iptv8k.top/dl/jrys.php?id=232&time=20240926215313&ip=111.229.253.40
 东森超视,https://cdn.iptv8k.top/dl/jrys.php?id=216&time=20240926215313&ip=111.229.253.40
+东森超视,https://cdn.iptv8k.top/dl/jrys.php?id=216&time=20240926215313&ip=111.229.253.40#rtmp://f13h.mine.nu/sat/tv331#rtmp://f13h.mine.nu/sat/tv331
 东森超视,https://cdn.iptv8k.top/dl/jrys.php?id=217&time=20240926215313&ip=111.229.253.40
-东森超视,http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
 东森超视,http://38.64.72.148:80/hls/modn/list/2013/chunklist0.m3u8
+东森超视,http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
 
 🕘️更新时间,#genre#
-2025-10-25 06:17:34,http://1.31.14.70:54321/hls/7/index.m3u8
+2025-10-28 06:15:30,http://112.46.85.60:8009/hls/502/index.m3u8
