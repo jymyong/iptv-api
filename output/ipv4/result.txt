@@ -1,6 +1,6 @@
 📺常看频道,#genre#
-CCTV-5+,http://cssbyd.imwork.net:8082/hls/6/index.m3u8
-CCTV-6,http://58.19.43.46:9901/tsfile/live/1025_1.m3u8
+CCTV-5,http://sh.lnott.top:880/dx05.m3u8
+CCTV-6,http://sh.lnott.top:880/dx06.m3u8
 CCTV-9,http://drive.mxmy.net:8888/udp/239.3.1.62:8112
 CCTV-16,http://drive.mxmy.net:8888/udp/239.3.1.184:8001
 安徽卫视,http://satellitepull.cnr.cn/live/wxahws/playlist.m3u8
@@ -26,7 +26,6 @@ CCTV-16,http://drive.mxmy.net:8888/udp/239.3.1.184:8001
 河南卫视,http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8
 吉林卫视,http://satellitepull.cnr.cn/live/wxjlws/playlist.m3u8
 山东卫视,http://satellitepull.cnr.cn/live/wxsdws/playlist.m3u8
-新疆卫视,http://sh.lnott.top:880/dx55.m3u8
 
 🎬电影频道,#genre#
 靖天映画,https://cdn.iptv8k.top/dl/jrys.php?id=320&time=20240926215313&ip=111.229.253.40
@@ -40,8 +39,9 @@ CCTV-16,http://drive.mxmy.net:8888/udp/239.3.1.184:8001
 东森洋片,https://cdn.iptv8k.top/dl/jrys.php?id=232&time=20240926215313&ip=111.229.253.40
 东森超视,https://cdn.iptv8k.top/dl/jrys.php?id=216&time=20240926215313&ip=111.229.253.40
 东森超视,https://cdn.iptv8k.top/dl/jrys.php?id=217&time=20240926215313&ip=111.229.253.40
+东森超视,https://cdn.iptv8k.top/dl/jrys.php?id=216&time=20240926215313&ip=111.229.253.40#rtmp://f13h.mine.nu/sat/tv331#rtmp://f13h.mine.nu/sat/tv331
 东森超视,http://38.64.72.148:80/hls/modn/list/2013/chunklist0.m3u8
 东森超视,http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
 
 🕘️更新时间,#genre#
-2025-11-01 06:18:13,http://cssbyd.imwork.net:8082/hls/6/index.m3u8
+2025-11-04 06:17:17,http://sh.lnott.top:880/dx05.m3u8
