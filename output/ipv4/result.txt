@@ -1,8 +1,25 @@
 📺常看频道,#genre#
-CCTV-4,https://play.kankanlive.com/live/1698234936258960.m3u8
+CCTV-1,http://120.211.62.180:8000/hls/1/index.m3u8
+CCTV-2,http://120.211.62.180:8000/hls/2/index.m3u8
+CCTV-4,http://120.211.62.180:8000/hls/4/index.m3u8
+CCTV-5+,http://120.211.62.180:8000/hls/18/index.m3u8
+CCTV-7,http://120.211.62.180:8000/hls/7/index.m3u8
+CCTV-9,http://120.211.62.180:8000/hls/9/index.m3u8
+CCTV-10,http://120.211.62.180:8000/hls/10/index.m3u8
+CCTV-11,http://120.211.62.180:8000/hls/11/index.m3u8
+CCTV-12,http://120.211.62.180:8000/hls/12/index.m3u8
+CCTV-13,http://120.211.62.180:8000/hls/13/index.m3u8
+CCTV-14,http://120.211.62.180:8000/hls/14/index.m3u8
+CCTV-15,http://120.211.62.180:8000/hls/15/index.m3u8
+CCTV-17,http://hmfs.f3322.net:3388/hls/37/index.m3u8
+CCTV-17,http://120.211.62.180:8000/hls/17/index.m3u8
 安徽卫视,http://satellitepull.cnr.cn/live/wxahws/playlist.m3u8
+安徽卫视,http://120.211.62.180:8000/hls/33/index.m3u8
+江苏卫视,http://120.211.62.180:8000/hls/32/index.m3u8
 东方卫视,http://bp-resource-dfl.bestv.cn/155/3/video.m3u8
+东方卫视,http://hmfs.f3322.net:3388/hls/24/index.m3u8
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
+北京卫视,http://120.211.62.180:8000/hls/35/index.m3u8
 
 💰央视付费频道,#genre#
 风云音乐,http://hmfs.f3322.net:3388/hls/29/index.m3u8
@@ -10,12 +27,10 @@ CCTV-4,https://play.kankanlive.com/live/1698234936258960.m3u8
 风云音乐,rtsp://115.153.245.70/PLTV/88888888/224/3221226994/86128897.smil
 风云音乐,rtsp://115.153.247.80/PLTV/88888888/224/3221226994/86128897.smil
 风云音乐,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226994/86128897.smil
-第一剧场,http://hmfs.f3322.net:3388/hls/21/index.m3u8
-风云剧场,http://hmfs.f3322.net:3388/hls/20/index.m3u8
 高尔夫网球,rtsp://115.153.245.70/PLTV/88888888/224/3221226967/86128985.smil
 高尔夫网球,rtsp://115.153.247.80/PLTV/88888888/224/3221226967/86128985.smil
 高尔夫网球,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226967/86128985.smil
-风云足球,http://hmfs.f3322.net:3388/hls/9/index.m3u8
+世界地理,http://hmfs.f3322.net:3388/hls/28/index.m3u8
 兵器科技,rtsp://115.153.245.70/PLTV/88888888/224/3221227004/86132185.smil
 兵器科技,rtsp://115.153.247.80/PLTV/88888888/224/3221227004/86132185.smil
 兵器科技,rtsp://115.153.222.112:554/PLTV/88888888/224/3221227004/86132185.smil
@@ -23,11 +38,21 @@ CCTV-4,https://play.kankanlive.com/live/1698234936258960.m3u8
 📡卫视频道,#genre#
 广东卫视,http://satellitepull.cnr.cn/live/wxgdws/playlist.m3u8
 湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
+湖南卫视,http://120.211.62.180:8000/hls/30/index.m3u8
 湖北卫视,http://www.745612.xyz:7788/rtp/235.254.198.72:1564
 东南卫视,http://satellitepull.cnr.cn/live/wx32fjws/playlist.m3u8
+东南卫视,http://hmfs.f3322.net:3388/hls/26/index.m3u8
+广西卫视,http://hmfs.f3322.net:3388/hls/27/index.m3u8
+河北卫视,http://120.211.62.180:8000/hls/19/index.m3u8
 河南卫视,http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8
+河南卫视,http://120.211.62.180:8000/hls/40/index.m3u8
 吉林卫视,http://satellitepull.cnr.cn/live/wxjlws/playlist.m3u8
+辽宁卫视,http://120.211.62.180:8000/hls/37/index.m3u8
 山东卫视,http://satellitepull.cnr.cn/live/wxsdws/playlist.m3u8
+山东卫视,http://120.211.62.180:8000/hls/38/index.m3u8
+深圳卫视,http://hmfs.f3322.net:3388/hls/25/index.m3u8
+天津卫视,http://120.211.62.180:8000/hls/36/index.m3u8
+云南卫视,http://120.211.62.180:8000/hls/39/index.m3u8
 
 🎬电影频道,#genre#
 靖天映画,https://cdn.iptv8k.top/dl/jrys.php?id=320&time=20240926215313&ip=111.229.253.40
@@ -38,9 +63,9 @@ CCTV-4,https://play.kankanlive.com/live/1698234936258960.m3u8
 星空卫视,https://cdn.iptv8k.top/dl/jrys.php?id=21&time=20240926215313&ip=111.229.253.40
 东森电影,https://cdn.iptv8k.top/dl/jrys.php?id=231&time=20240926215313&ip=111.229.253.40
 东森洋片,https://cdn.iptv8k.top/dl/jrys.php?id=232&time=20240926215313&ip=111.229.253.40
-东森超视,https://cdn.iptv8k.top/dl/jrys.php?id=216&time=20240926215313&ip=111.229.253.40
 东森超视,https://cdn.iptv8k.top/dl/jrys.php?id=217&time=20240926215313&ip=111.229.253.40
-东森超视,http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
+东森超视,https://cdn.iptv8k.top/dl/jrys.php?id=216&time=20240926215313&ip=111.229.253.40#rtmp://f13h.mine.nu/sat/tv331#rtmp://f13h.mine.nu/sat/tv331
+东森超视,https://cdn.iptv8k.top/dl/jrys.php?id=216&time=20240926215313&ip=111.229.253.40
 
 🕘️更新时间,#genre#
-2025-12-20 06:17:43,https://play.kankanlive.com/live/1698234936258960.m3u8
+2025-12-23 06:18:48,http://120.211.62.180:8000/hls/1/index.m3u8
