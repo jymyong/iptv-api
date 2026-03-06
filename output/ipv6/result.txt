@@ -346,4 +346,4 @@ NewTV动作电影,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/46000008
 东森超视,https://stream1.freetv.fun/dong-sen-chao-shi-8.ctv
 
 🕘️更新时间,#genre#
-2026-03-03 06:23:59,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2026-03-07 06:23:49,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
