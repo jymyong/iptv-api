@@ -1,5 +1,4 @@
 📺常看频道,#genre#
-CCTV-9,http://74.91.26.218:82/live/cctv9hd.m3u8
 CCTV-17,http://drive.mxmy.net:8888/udp/239.3.1.151:8144
 安徽卫视,http://satellitepull.cnr.cn/live/wxahws/playlist.m3u8
 浙江卫视,http://ali-xwl.cztv.com/live/channel011080Plxw.m3u8
@@ -34,4 +33,4 @@ CCTV-17,http://drive.mxmy.net:8888/udp/239.3.1.151:8144
 天映经典,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/1165791
 
 🕘️更新时间,#genre#
-2026-03-07 06:23:49,http://74.91.26.218:82/live/cctv9hd.m3u8
+2026-03-10 06:35:03,http://drive.mxmy.net:8888/udp/239.3.1.151:8144
