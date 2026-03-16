@@ -335,7 +335,6 @@ NewTV动作电影,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/46000008
 经典电影,https://stream1.freetv.fun/jing-dian-dian-ying-2.ctv
 经典电影,https://stream1.freetv.fun/jing-dian-dian-ying-7.m3u8
 经典电影,https://stream1.freetv.fun/jing-dian-dian-ying-8.m3u8
-天映经典,http://pull-vivek.speedws.com/live/aaatyjd.flv
 天映经典,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/1165791
 天映经典,https://migu.188766.xyz/?migutoken=3637f4ae3861b554c9b368728cc8b391&id=Celestial2&type=dy
 天映经典,https://epg.pw/stream/cb817875cf26eb683af274dd8cdf7f559a71353d9565c32447c8d98894bc8095.ctv
@@ -359,4 +358,4 @@ NewTV动作电影,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/46000008
 东森超视,https://stream1.freetv.fun/dong-sen-chao-shi-8.ctv
 
 🕘️更新时间,#genre#
-2026-03-14 06:24:17,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2026-03-17 06:28:45,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
